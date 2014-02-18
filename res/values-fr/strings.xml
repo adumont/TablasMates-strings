@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tables de Multiplication</string>
+    <string name="action_settings">Options</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Choisis les tables que tu veux reviser:</string>
+    <string name="start">Commencer</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Jeu</string>
+    <string name="label_correctos">Bien: %d</string>
+    <string name="label_errores">À revoir: %d</string>
+    <string name="label_muybien">Très bien!</string>
+    <string name="label_noera">Non, c\'est %d!</string>
+
+</resources>
