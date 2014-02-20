@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tablas de Multiplicar</string>
+    <string name="action_settings">Ajustes</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Elegí las tablas que querés practicar:</string>
+    <string name="start">Empezar</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Juego</string>
+    <string name="label_correctos">Correctos: %d</string>
+    <string name="label_errores">Errores: %d</string>
+    <string name="label_muybien">¡Muy bien!</string>
+    <string name="label_noera">¡No, era %d!</string>
+
+</resources>
