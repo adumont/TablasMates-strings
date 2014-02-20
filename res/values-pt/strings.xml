@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabuada</string>
+    <string name="action_settings">Configurações</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Quais tabuadas você deseja praticar?</string>
+    <string name="start">Iniciar</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Jogo</string>
+    <string name="label_correctos">Corretas: %d</string>
+    <string name="label_errores">Erros: %d</string>
+    <string name="label_muybien">Muito bom!</string>
+    <string name="label_noera">Não, o correto é %d!</string>
+
+</resources>
