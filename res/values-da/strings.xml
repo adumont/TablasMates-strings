@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gangetabeller</string>
+    <string name="action_settings">Indstillinger</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Hvilke tabeller vil du øve?</string>
+    <string name="start">Start</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Spil</string>
+    <string name="label_correctos">Korrekt: %d</string>
+    <string name="label_errores">Fejl: %d</string>
+    <string name="label_muybien">Rigtig godt!</string>
+    <string name="label_noera">Nej, det er %d!</string>
+
+</resources>
