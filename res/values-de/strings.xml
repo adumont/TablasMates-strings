@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Einmaleins</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Welches Einmaleins möchtest du üben?</string>
+    <string name="start">Start</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Spiel</string>
+    <string name="label_correctos">Richtig: %d</string>
+    <string name="label_errores">Falsch: %d</string>
+    <string name="label_muybien">Sehr gut!</string>
+    <string name="label_noera">Nein, richtig ist %d!</string>
+
+</resources>
