@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">चला पाढे पाठ करू</string>
+    <string name="action_settings">सेटिंग</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">कुठल्या पाढ्यांचा अभ्यास करायचाय?</string>
+    <string name="start">सुरु करा</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">खेळ</string>
+    <string name="label_correctos">बरोबर: %d</string>
+    <string name="label_errores">चूक: %d</string>
+    <string name="label_muybien">खूपच छान!</string>
+    <string name="label_noera">नाही, बरोबर उत्तर आहे %d!</string>
+
+</resources>
