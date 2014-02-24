@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabelline</string>
+    <string name="action_settings">Impostazioni</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Quali tabelline vuoi provare?</string>
+    <string name="start">Inizia</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Partita</string>
+    <string name="label_correctos">Corretti: %d</string>
+    <string name="label_errores">Errori: %d</string>
+    <string name="label_muybien">Molto bene!</string>
+    <string name="label_noera">No, è %d!</string>
+
+</resources>
