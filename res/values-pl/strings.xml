@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabele mnozenia</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Które tabele chcesz pocwiczyc?</string>
+    <string name="start">Start</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Gra</string>
+    <string name="label_correctos">Poprawnie: %d</string>
+    <string name="label_errores">Bledy: %d</string>
+    <string name="label_muybien">Bardzo dobrze!</string>
+    <string name="label_noera">Nie, to %d!</string>
+
+</resources>
