@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multiplikationstabeller</string>
+    <string name="action_settings">Inställningar</string>
+
+    <!-- Main Activity -->
+    <string name="label_elige_tablas">Vilka tabeller vill du öva på?</string>
+    <string name="start">Starta</string>
+
+    <!-- Game Activity -->
+    <string name="title_activity_game">Spel</string>
+    <string name="label_correctos">%d rätt</string>
+    <string name="label_errores">%d fel</string>
+    <string name="label_muybien">Jättebra!</string>
+    <string name="label_noera">Rätt svar är %d!</string>
+
+</resources>
